@@ -63,23 +63,6 @@ I'm **Atabong Yannick Nanchan**, a passionate **Application Security Engineer** 
 - Performing **black-box, gray-box, and white-box testing**.  
 - Using **ffuf, SQLmap, Metasploit, and Nmap** for reconnaissance and exploitation.  
 
----
-
-## 🚀 Featured Projects
-
-📌 **Web App Containerization with Prometheus Monitoring**  
-🔹 **Tech Stack:** Docker | GitHub Actions | Prometheus | Grafana  
-🔹 **Security Focus:** Container security, CI/CD hardening, runtime monitoring  
-
-📌 **Shiptivitas – API Security & CI/CD Hardening**  
-🔹 **Tech Stack:** Burp Suite | OWASP ZAP | Snyk | Checkov  
-🔹 **Security Focus:** API security testing, SAST/DAST integration, supply chain security  
-
-📌 **FinSecure – Mobile Payments Security Review**  
-🔹 **Tech Stack:** JavaScript | Node.js | Burp Suite | SonarQube  
-🔹 **Security Focus:** Web and mobile API security, business logic testing  
-
----
 
 ## 🏆 Certifications & Achievements
 
