@@ -42,10 +42,7 @@ I specialize in:
 ---
 
 ## 📂 Projects  
-### 🔹 **Current Projects**
-- **[SecurePaystack: API Security Assessment](https://github.com/YannickAtabong9/SecurePaystack)**  
-- **[BugHunter: API Vulnerability Scanner](https://github.com/YannickAtabong9/BugHunter)**  
-- **[Shiptivitas: Secure CI/CD for Web Apps](https://github.com/YannickAtabong9/Shiptivitas)**  
+
 
 ### 🔹 **Upcoming Projects**
 - **FinSecure: Mobile Payments Security Review**  
@@ -77,7 +74,7 @@ I specialize in:
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YannickAtabong9)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannickatabong6@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-atabong-6bb426200/)  
 
 ---
 
