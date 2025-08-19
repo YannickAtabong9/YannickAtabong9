@@ -1,12 +1,12 @@
 # 🔐 Atabong Yannick Nanchan | DevSecOps | API Security | Application Security | Offensive Security
 
 ## 🚀 About Me  
-I am a **Security Researcher & DevSecOps Engineer** passionate about **API security, cloud-native security, and automation**.  
+I am a **Security Researcher & Appsec Engineer** passionate about **API security, cloud-native security, and automation**.  
 I specialize in:  
-✅ **Web & API Pentesting** (OWASP Top 10, Business Logic)  
-✅ **DevSecOps & Secure CI/CD** (GitHub Actions, SAST, DAST, SCA)  
-✅ **Cloud Security** (AWS, Azure, GCP, Kubernetes)  
-✅ **Bug Bounty & Security Research** (BugHunter, API Vulnerability Scanner)  
+ **Web & API Pentesting** (OWASP Top 10, Business Logic)  
+ **DevSecOps & Secure CI/CD** (GitHub Actions, SAST, DAST, SCA)  
+ **Cloud Security** (AWS, Azure, GCP, Kubernetes)  
+ **Bug Bounty & Security Research** (BugHunter, API Vulnerability Scanner)  
 
 ---
 
