@@ -1,12 +1,14 @@
-# 🔐 Atabong Yannick Nanchan | DevSecOps | API Security | Application Security | Offensive Security
+# 🔐 Atabong Yannick Nanchan | Application Security | API Security | DevSecOps
 
 ## 🚀 About Me  
-I am a **Security Researcher & Appsec Engineer** passionate about **API security, cloud-native security, and automation**.  
+I am an **Application Security Engineer & Security Researcher** focused on securing **API-first, cloud-native, and mobile applications**.  
+
 I specialize in:  
- **Web & API Pentesting** (OWASP Top 10, Business Logic)  
- **DevSecOps & Secure CI/CD** (GitHub Actions, SAST, DAST, SCA)  
- **Cloud Security** (AWS, Azure, GCP, Kubernetes)  
- **Bug Bounty & Security Research** (BugHunter, API Vulnerability Scanner)  
+- 🔍 **Web, API & Mobile Security Testing** (OWASP Top 10, API Top 10, Mobile Top 10, Business Logic)  
+- ⚙️ **DevSecOps & Secure CI/CD** (GitHub Actions, SAST, DAST, SCA)  
+- ☁️ **Cloud & Container Security** (AWS, Kubernetes, Docker)  
+- 🧪 **End-to-End Functional & Security Testing across the SDLC**, validating application behavior, uncovering logic flaws, and ensuring secure, reliable releases  
+- 🤖 **Test Automation & Validation** using Cypress, Appium, and modern testing practices  
 
 ---
 
@@ -18,56 +20,59 @@ I specialize in:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   
 
-### 🔹 Programming Languages  
+### 🔹 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
-### 🔹 Security & Pentesting Tools  
+### 🔹 Security & Testing  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F24E1E?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-02539B?style=for-the-badge&logo=owasp&logoColor=white)  
+![MobSF](https://img.shields.io/badge/MobSF-2E8B57?style=for-the-badge&logo=android&logoColor=white)  
+![Appium](https://img.shields.io/badge/Appium-6DB33F?style=for-the-badge&logo=appium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-2274A5?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![SQLmap](https://img.shields.io/badge/SQLmap-990000?style=for-the-badge&logo=database&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 
-### 🔹 DevOps & Cloud  
+### 🔹 DevSecOps & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 ---
 
 ## 📂 Projects  
 
-
-### 🔹 **Upcoming Projects**
-- **FinSecure: Mobile Payments Security Review**  
-- **OSWE Exam-Ready Research (Laravel Security - Invoice Ninja)**  
+- 🔐 **API Security Testing Playbook** – Structured methodology for testing authentication, authorization, and business logic flaws  
+- ⚙️ **DevSecOps CI/CD Pipeline** – Integrated SAST, DAST, container, and dependency scanning into GitHub Actions  
+- 📦 **Secure Containerized App Monitoring** – Dockerized application with Prometheus monitoring and security hardening  
+- 📑 **Security Assessment Reports** – Real-world vulnerability findings with root cause and impact analysis  
+- 🧪 **Test Automation with Cypress & Appium** – Web, API, and mobile validation integrated into security workflows  
+- 📱 **Mobile Security Testing Lab** – Static and dynamic analysis using MobSF with runtime validation  
 
 ---
 
 ## 🏆 Achievements & Contributions  
-- **Discovered API security vulnerabilities** in production environments.  
-- **Bug Bounty Reports** submitted to major platforms.  
-- **Working on CVE Contributions** for open-source projects.  
+- Identified **high-impact API and application vulnerabilities** including broken authorization and logic flaws  
+- Submitted **bug bounty reports** across multiple platforms  
+- Performed **end-to-end security assessments** across web, API, and mobile applications  
+- Improved **application security posture** through testing, validation, and secure design feedback  
 
 ---
 
 ## 📚 Learning & Research  
 🔥 **Current Focus:**  
-- OSWE Exam Prep (Advanced Web Exploitation)  
-- API Security Automation with Burp Suite Extensions  
-- Supply Chain Security & CI/CD Hardening  
+- Advanced API exploitation & automation  
+- Mobile application security testing (static & dynamic analysis)  
+- CI/CD security hardening & supply chain security  
+- Cloud security misconfiguration testing  
 
 ---
 
 ## 📜 Certifications  
-✅ **API Pentesting Certification** – APISec University  
-
+✅ API Pentesting Certification – APISec University  
 
 ---
 
