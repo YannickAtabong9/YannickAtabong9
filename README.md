@@ -1,4 +1,4 @@
-# 🔐 Atabong Yannick Nanchan | Application Security | API Security | DevSecOps
+# 🔐 Atabong Yannick Nanchan | QA & Security Engineer | Application Security | API Security | DevSecOps
 
 ## 🚀 About Me  
 I am an **Application Security Engineer & Security Researcher** focused on securing **API-first, cloud-native, and mobile applications**.  
