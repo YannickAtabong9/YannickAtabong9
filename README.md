@@ -1,14 +1,13 @@
 # 🔐 Atabong Yannick Nanchan | QA & Security Engineer | Application Security | API Security | DevSecOps
 
-## 🚀 About Me  
-I am an **Application Security Engineer & Security Researcher** focused on securing **API-first, cloud-native, and mobile applications**.  
+## 🚀 About Me
 
-I specialize in:  
-- 🔍 **Web, API & Mobile Security Testing** (OWASP Top 10, API Top 10, Mobile Top 10, Business Logic)  
-- ⚙️ **DevSecOps & Secure CI/CD** (GitHub Actions, SAST, DAST, SCA)  
-- ☁️ **Cloud & Container Security** (AWS, Kubernetes, Docker)  
-- 🧪 **End-to-End Functional & Security Testing across the SDLC**, validating application behavior, uncovering logic flaws, and ensuring secure, reliable releases  
-- 🤖 **Test Automation & Validation** using Cypress, Appium, and modern testing practices  
+I am a **Security & Quality Engineer** who breaks software to make it unbreakable. By seamlessly bridging **QA Automation** and **Application Security (AppSec)**, I uncover logic flaws early and build secure, high-quality releases across the entire SDLC.
+
+* 🔍 **AppSec & API Security:** Penetration testing and vulnerability assessments across Web, API, and Mobile applications (OWASP Top 10, business logic flaw identification).
+* 🤖 **Test Automation:** End-to-end functional and API test automation built with Cypress,Playwright, Appium, and JavaScript/TypeScript.
+* ⚙️ **DevSecOps & Secure CI/CD:** Automating SAST, DAST, SCA, and container scans directly into GitHub Actions pipelines.
+* ☁️ **Cloud & Infrastructure:** Securing and hardening cloud-native environments (AWS, Docker, Kubernetes).  
 
 ---
 
