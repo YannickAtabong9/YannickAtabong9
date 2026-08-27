@@ -1,87 +1,166 @@
-# 🔐 Atabong Yannick Nanchan | QA & Security Engineer | Application Security | API Security | DevSecOps
+# Hi, I'm Yannick 👋
 
-## 🚀 About Me
+### Senior Quality & Security Assurance Engineer | QA Automation | Application Security | API Security
 
-I am a **Security & Quality Engineer** who breaks software to make it unbreakable. By seamlessly bridging **QA Automation** and **Application Security (AppSec)**, I uncover logic flaws early and build secure, high-quality releases across the entire SDLC.
+I build and test secure, reliable software across **API, web, mobile, and cloud-native environments**.
 
-* 🔍 **AppSec & API Security:** Penetration testing and vulnerability assessments across Web, API, and Mobile applications (OWASP Top 10, business logic flaw identification).
-* 🤖 **Test Automation:** End-to-end functional and API test automation built with Cypress,Playwright, Appium, and JavaScript/TypeScript.
-* ⚙️ **DevSecOps & Secure CI/CD:** Automating SAST, DAST, SCA, and container scans directly into GitHub Actions pipelines.
-* ☁️ **Cloud & Infrastructure:** Securing and hardening cloud-native environments (AWS, Docker, Kubernetes).  
+My work sits at the intersection of **Quality Engineering and Application Security** — combining test automation, API and database validation, security testing, performance engineering, observability, and CI/CD quality gates.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🔬 Featured Project
 
-### 🔹 Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   
+### PayFlow Quality Engineering
 
-### 🔹 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+A production-style payment API Quality Engineering project demonstrating an end-to-end approach to software quality.
 
-### 🔹 Security & Testing  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F24E1E?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-02539B?style=for-the-badge&logo=owasp&logoColor=white)  
-![MobSF](https://img.shields.io/badge/MobSF-2E8B57?style=for-the-badge&logo=android&logoColor=white)  
-![Appium](https://img.shields.io/badge/Appium-6DB33F?style=for-the-badge&logo=appium&logoColor=white)  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)  
-![SQLmap](https://img.shields.io/badge/SQLmap-990000?style=for-the-badge&logo=database&logoColor=white)  
+**Engineering coverage:**
 
-### 🔹 DevSecOps & Cloud  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+- Playwright API automation
+- Functional & negative testing
+- Payment lifecycle testing
+- PostgreSQL database validation
+- Idempotency & concurrency testing
+- OpenAPI contract testing
+- API security testing
+- Rate-limit validation
+- Secure error-handling testing
+- k6 performance & load testing
+- Prometheus metrics
+- Grafana observability
+- Dockerized infrastructure
+- GitHub Actions CI/CD quality gates
+
+**Tech:** TypeScript · Playwright · Fastify · PostgreSQL · Docker · k6 · Prometheus · Grafana · GitHub Actions
+
+👉 [View PayFlow Quality Engineering](https://github.com/YannickAtabong9/payflow-quality-engineering)
 
 ---
 
-## 📂 Projects  
+## 🧪 Quality Engineering
 
-- 🔐 **API Security Testing Playbook** – Structured methodology for testing authentication, authorization, and business logic flaws  
-- ⚙️ **DevSecOps CI/CD Pipeline** – Integrated SAST, DAST, container, and dependency scanning into GitHub Actions  
-- 📦 **Secure Containerized App Monitoring** – Dockerized application with Prometheus monitoring and security hardening  
-- 📑 **Security Assessment Reports** – Real-world vulnerability findings with root cause and impact analysis  
-- 🧪 **Test Automation with Cypress & Appium** – Web, API, and mobile validation integrated into security workflows  
-- 📱 **Mobile Security Testing Lab** – Static and dynamic analysis using MobSF with runtime validation  
+**Test Automation**
+- Playwright
+- Cypress
+- API Automation
+- End-to-End Testing
+- Regression Testing
 
----
+**API & Backend Quality**
+- REST API Testing
+- Postman
+- Contract Testing
+- Database Validation
+- PostgreSQL
+- Idempotency & Concurrency Testing
 
-## 🏆 Achievements & Contributions  
-- Identified **high-impact API and application vulnerabilities** including broken authorization and logic flaws  
-- Submitted **bug bounty reports** across multiple platforms  
-- Performed **end-to-end security assessments** across web, API, and mobile applications  
-- Improved **application security posture** through testing, validation, and secure design feedback  
-
----
-
-## 📚 Learning & Research  
-🔥 **Current Focus:**  
-- Advanced API exploitation & automation  
-- Mobile application security testing (static & dynamic analysis)  
-- CI/CD security hardening & supply chain security  
-- Cloud security misconfiguration testing  
+**Performance & Reliability**
+- k6
+- Performance Testing
+- Load Testing
+- Prometheus
+- Grafana
 
 ---
 
-## 📜 Certifications  
-✅ API Pentesting Certification – APISec University  
+## 🔐 Application Security
+
+- API Security Testing
+- Web Application Security
+- Mobile Application Security
+- OWASP Top 10
+- OWASP API Security Top 10
+- Authentication & Authorization Testing
+- IDOR / Broken Access Control
+- Business Logic Testing
+- Burp Suite
+- OWASP ZAP
+- MobSF
+- Vulnerability Research
 
 ---
 
-## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YannickAtabong9)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannickatabong6@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-atabong-6bb426200/)  
+## ⚙️ DevSecOps & Cloud
+
+- GitHub Actions
+- CI/CD Quality & Security Gates
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- SAST / DAST / SCA
+- Security Automation
+- Shift-Left Quality & Security
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YannickAtabong9&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickAtabong9&layout=compact&theme=dark)  
+## 🛠️ Languages & Technologies
+
+```text
+TypeScript    JavaScript    Python    Bash
+Node.js       Fastify       PostgreSQL
+Playwright    Cypress       Postman
+Docker        Kubernetes    Terraform
+GitHub Actions
+Prometheus    Grafana       k6
+Burp Suite    OWASP ZAP     MobSF
+```
+
+---
+
+## 🚀 Selected Projects
+
+### 💳 PayFlow Quality Engineering
+Production-style payment API quality platform covering functional, integration, database, contract, security, performance, and observability testing.
+
+[View Repository](https://github.com/YannickAtabong9/payflow-quality-engineering)
+
+### 🔐 SecureStack
+DevSecOps-driven API security automation project integrating security testing into modern development workflows.
+
+[View Repository](https://github.com/YannickAtabong9/SecureStack)
+
+---
+
+## 🏆 Security Research
+
+My security work focuses on identifying vulnerabilities in production applications, particularly:
+
+- API authorization weaknesses
+- Authentication vulnerabilities
+- Business logic flaws
+- Web application vulnerabilities
+- Mobile application security issues
+
+I combine offensive security testing with Quality Engineering practices to identify both **security vulnerabilities and reliability risks** before they reach production.
+
+---
+
+## 📜 Certification
+
+**API Penetration Testing Certification — APISec University**
+
+---
+
+## 🎯 Current Focus
+
+Currently deepening my work in:
+
+- Advanced Quality Engineering
+- API Test Automation
+- Application Security
+- API Security
+- DevSecOps
+- Performance Engineering
+- CI/CD Quality & Security Gates
+- Cloud & Container Security
+
+---
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/yannick-atabong-6bb426200/) • [GitHub](https://github.com/YannickAtabong9)
+
+---
+
+> Building software that is not only functional — but **reliable, observable, performant, and secure**.
