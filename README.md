@@ -1,6 +1,6 @@
 # Hi, I'm Yannick 👋
 
-### Senior Quality & Security Assurance Engineer | QA Automation | Application Security | API Security
+### Senior Quality Engineer | Application Security | QA Automation | API Security | DevSecOps
 
 I build and test **secure, reliable, and high-quality software** across API, web, mobile, and cloud-native environments.
 
@@ -12,13 +12,13 @@ My work sits at the intersection of **Quality Engineering and Application Securi
 
 ### 💳 PayFlow Quality Engineering
 
-A production-style payment API Quality Engineering project demonstrating an end-to-end approach to software quality.
+A production-style payment API Quality Engineering project demonstrating a layered approach to software quality, security, reliability, and observability.
 
 **Engineering coverage:**
 
 - Playwright API automation
 - Functional and negative testing
-- Payment lifecycle testing
+- Payment lifecycle and state-transition testing
 - PostgreSQL database validation
 - Idempotency and concurrency testing
 - OpenAPI contract validation
@@ -83,6 +83,7 @@ A production-style payment API Quality Engineering project demonstrating an end-
 - Broken Access Control / IDOR Testing
 - Business Logic Testing
 - Input Validation Testing
+- Secure Code Review
 - Burp Suite
 - OWASP ZAP
 - MobSF
@@ -93,6 +94,7 @@ A production-style payment API Quality Engineering project demonstrating an end-
 ## ⚙️ DevSecOps & Engineering
 
 - GitHub Actions
+- GitHub Advanced Security
 - CI/CD Quality Gates
 - Security Testing in CI/CD
 - Docker
@@ -114,8 +116,9 @@ TypeScript · JavaScript · Python · Bash
 Quality Engineering
 Playwright · Cypress · Postman · REST API Testing · OpenAPI · Ajv
 
-Security
+Application Security
 Burp Suite · OWASP ZAP · MobSF · OWASP Top 10 · API Security
+Secure Code Review · GitHub Advanced Security
 
 Backend & Data
 Node.js · Fastify · PostgreSQL
@@ -142,19 +145,21 @@ Areas of focus include:
 - Web application vulnerabilities
 - Mobile application security
 - API security weaknesses
+- Secure code review
 
-I combine offensive security knowledge with Quality Engineering practices to identify both **software quality risks and security vulnerabilities** throughout the development lifecycle.
+I combine offensive security knowledge with Quality Engineering practices to identify both **software quality risks and security vulnerabilities** throughout the software development lifecycle.
 
 ---
 
-## 📜 Certifications
+## 📜 Selected Certifications
 
-- **API Penetration Testing** — APIsec University
+- **Web Application Pentesting Certificate** — TryHackMe
+- **API Security for PCI Compliance** — APIsec University
+- **Securing LLM and NLP APIs** — APIsec University
+- **GitHub Advanced Security Part 1 of 2** — Microsoft
+- **GitHub Advanced Security Part 2 of 2** — Microsoft
 - **Certified Security Code Review Beginners (CSCRB)** — Red Team Leaders
-- **AWS Cloud Practitioner Essentials** — Amazon Web Services
-- **Junior Penetration Tester** — TryHackMe
-- **MITRE ATT&CK Defender™ — Cyber Threat Intelligence** — MITRE
-- **Penetration Testing & Ethical Hacking** — Cybrary
+- **MITRE ATT&CK Defender™ (MAD) ATT&CK® Cyber Threat Intelligence** — MITRE
 
 ---
 
@@ -168,6 +173,7 @@ Currently deepening my engineering experience in:
 - Application Security
 - API Security
 - DevSecOps
+- Secure Code Review
 - Performance Engineering
 - CI/CD Quality & Security Gates
 - Cloud & Container Security
@@ -183,7 +189,7 @@ I focus on validating whether systems are:
 
 **Functional · Reliable · Secure · Performant · Observable · Resilient**
 
-My approach combines Quality Engineering with security-focused testing and modern CI/CD practices to identify problems earlier in the software development lifecycle.
+My approach combines Quality Engineering with security-focused testing and modern CI/CD practices to identify quality and security risks earlier in the software development lifecycle.
 
 ---
 
