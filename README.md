@@ -6,8 +6,6 @@ I build and test **secure, reliable, and high-quality software** across API, web
 
 My work sits at the intersection of **Quality Engineering and Application Security** — combining test automation, API and database validation, security testing, performance engineering, observability, and CI/CD quality gates.
 
----
-
 ## 🔬 Featured Project
 
 ### 💳 PayFlow Quality Engineering
@@ -35,8 +33,6 @@ A production-style payment API Quality Engineering project demonstrating a layer
 **Tech:** TypeScript · Playwright · Fastify · PostgreSQL · Docker · k6 · Prometheus · Grafana · GitHub Actions
 
 👉 [View PayFlow Quality Engineering](https://github.com/YannickAtabong9/payflow-quality-engineering)
-
----
 
 ## 🧪 Quality Engineering
 
@@ -70,8 +66,6 @@ A production-style payment API Quality Engineering project demonstrating a layer
 - Grafana
 - API Observability
 
----
-
 ## 🔐 Application Security
 
 - API Security Testing
@@ -89,8 +83,6 @@ A production-style payment API Quality Engineering project demonstrating a layer
 - MobSF
 - Vulnerability Research
 
----
-
 ## ⚙️ DevSecOps & Engineering
 
 - GitHub Actions
@@ -104,8 +96,6 @@ A production-style payment API Quality Engineering project demonstrating a layer
 - SAST / DAST / SCA
 - Security Automation
 - Shift-Left Quality & Security
-
----
 
 ## 🛠️ Languages & Technologies
 
@@ -130,8 +120,6 @@ Performance & Observability
 k6 · Prometheus · Grafana
 ```
 
----
-
 ## 🏆 Security Research
 
 My security work focuses on identifying vulnerabilities and security weaknesses in **web, mobile, and API-driven applications**.
@@ -149,8 +137,6 @@ Areas of focus include:
 
 I combine offensive security knowledge with Quality Engineering practices to identify both **software quality risks and security vulnerabilities** throughout the software development lifecycle.
 
----
-
 ## 📜 Selected Certifications
 
 - **Web Application Pentesting Certificate** — TryHackMe
@@ -160,8 +146,6 @@ I combine offensive security knowledge with Quality Engineering practices to ide
 - **GitHub Advanced Security Part 2 of 2** — Microsoft
 - **Certified Security Code Review Beginners (CSCRB)** — Red Team Leaders
 - **MITRE ATT&CK Defender™ (MAD) ATT&CK® Cyber Threat Intelligence** — MITRE
-
----
 
 ## 🎯 Current Focus
 
@@ -179,8 +163,6 @@ Currently deepening my engineering experience in:
 - Cloud & Container Security
 - Observability
 
----
-
 ## 💡 Engineering Philosophy
 
 Quality is more than checking whether software works.
@@ -191,12 +173,8 @@ I focus on validating whether systems are:
 
 My approach combines Quality Engineering with security-focused testing and modern CI/CD practices to identify quality and security risks earlier in the software development lifecycle.
 
----
-
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/yannick-atabong-6bb426200/) · [GitHub](https://github.com/YannickAtabong9)
-
----
 
 > Building software that is not only functional — but **reliable, observable, performant, and secure**.
