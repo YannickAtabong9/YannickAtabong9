@@ -10,22 +10,23 @@ My work sits at the intersection of **Quality Engineering and Application Securi
 
 ## 🔬 Featured Project
 
-### PayFlow Quality Engineering
+### 💳 PayFlow Quality Engineering
 
 A production-style payment API Quality Engineering project demonstrating an end-to-end approach to software quality.
 
 **Engineering coverage:**
 
 - Playwright API automation
-- Functional & negative testing
+- Functional and negative testing
 - Payment lifecycle testing
 - PostgreSQL database validation
-- Idempotency & concurrency testing
-- OpenAPI contract testing
+- Idempotency and concurrency testing
+- OpenAPI contract validation
 - API security testing
 - Rate-limit validation
-- Secure error-handling testing
-- k6 performance & load testing
+- Input security testing
+- Secure error-handling validation
+- k6 performance and load testing
 - Prometheus metrics
 - Grafana observability
 - Dockerized infrastructure
@@ -39,27 +40,32 @@ A production-style payment API Quality Engineering project demonstrating an end-
 
 ## 🧪 Quality Engineering
 
-**Test Automation**
+### Test Automation
 - Playwright
 - Cypress
 - API Automation
 - End-to-End Testing
 - Regression Testing
+- Functional Testing
+- Exploratory Testing
 
-**API & Backend Quality**
+### API & Backend Quality
 - REST API Testing
 - Postman
-- Contract Testing
+- OpenAPI Contract Testing
 - Database Validation
 - PostgreSQL
-- Idempotency & Concurrency Testing
+- Idempotency Testing
+- Concurrency Testing
+- Integration Testing
 
-**Performance & Reliability**
+### Performance & Reliability
 - k6
 - Performance Testing
 - Load Testing
 - Prometheus
 - Grafana
+- API Observability
 
 ---
 
@@ -71,8 +77,10 @@ A production-style payment API Quality Engineering project demonstrating an end-
 - OWASP Top 10
 - OWASP API Security Top 10
 - Authentication & Authorization Testing
-- IDOR / Broken Access Control
+- Broken Access Control / IDOR Testing
 - Business Logic Testing
+- Input Validation Testing
+- Security-focused API Testing
 - Burp Suite
 - OWASP ZAP
 - MobSF
@@ -80,10 +88,11 @@ A production-style payment API Quality Engineering project demonstrating an end-
 
 ---
 
-## ⚙️ DevSecOps & Cloud
+## ⚙️ DevSecOps & Engineering
 
 - GitHub Actions
-- CI/CD Quality & Security Gates
+- CI/CD Quality Gates
+- Security Testing in CI/CD
 - Docker
 - Kubernetes
 - AWS
@@ -97,42 +106,69 @@ A production-style payment API Quality Engineering project demonstrating an end-
 ## 🛠️ Languages & Technologies
 
 ```text
-TypeScript    JavaScript    Python    Bash
-Node.js       Fastify       PostgreSQL
-Playwright    Cypress       Postman
-Docker        Kubernetes    Terraform
-GitHub Actions
-Prometheus    Grafana       k6
-Burp Suite    OWASP ZAP     MobSF
+Languages
+TypeScript · JavaScript · Python · Bash
+
+Quality Engineering
+Playwright · Cypress · Postman · REST API Testing · OpenAPI · Ajv
+
+Security
+Burp Suite · OWASP ZAP · MobSF · OWASP Top 10 · API Security
+
+Backend & Data
+Node.js · Fastify · PostgreSQL
+
+DevOps & Cloud
+Docker · Kubernetes · Terraform · AWS · GitHub Actions
+
+Performance & Observability
+k6 · Prometheus · Grafana
 ```
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Engineering Project
 
 ### 💳 PayFlow Quality Engineering
-Production-style payment API quality platform covering functional, integration, database, contract, security, performance, and observability testing.
 
-[View Repository](https://github.com/YannickAtabong9/payflow-quality-engineering)
+Production-style payment API quality platform covering **functional, integration, database, contract, security, performance, and observability testing**.
 
-### 🔐 SecureStack
-DevSecOps-driven API security automation project integrating security testing into modern development workflows.
+The project demonstrates a layered Quality Engineering approach where quality checks are integrated across the software delivery lifecycle rather than being limited to end-stage testing.
 
-[View Repository](https://github.com/YannickAtabong9/SecureStack)
+Key engineering areas include:
+
+- Automated API testing with Playwright
+- Payment lifecycle and state-transition validation
+- Direct PostgreSQL persistence assertions
+- Idempotency and concurrent-request testing
+- OpenAPI contract validation
+- Security-focused input and error-handling tests
+- API rate-limit validation
+- k6 performance and load testing
+- Prometheus application metrics
+- Grafana monitoring
+- Dockerized test infrastructure
+- Automated GitHub Actions quality gate
+
+👉 [Explore the repository](https://github.com/YannickAtabong9/payflow-quality-engineering)
 
 ---
 
 ## 🏆 Security Research
 
-My security work focuses on identifying vulnerabilities in production applications, particularly:
+My security work focuses on identifying vulnerabilities and security weaknesses in web, mobile, and API-driven applications.
+
+Areas of focus include:
 
 - API authorization weaknesses
 - Authentication vulnerabilities
+- Broken access control
 - Business logic flaws
 - Web application vulnerabilities
-- Mobile application security issues
+- Mobile application security
+- API security weaknesses
 
-I combine offensive security testing with Quality Engineering practices to identify both **security vulnerabilities and reliability risks** before they reach production.
+I combine offensive security knowledge with Quality Engineering practices to identify both **software quality risks and security vulnerabilities** throughout the development lifecycle.
 
 ---
 
@@ -144,9 +180,10 @@ I combine offensive security testing with Quality Engineering practices to ident
 
 ## 🎯 Current Focus
 
-Currently deepening my work in:
+Currently deepening my engineering experience in:
 
 - Advanced Quality Engineering
+- Playwright & Cypress Automation
 - API Test Automation
 - Application Security
 - API Security
@@ -154,12 +191,25 @@ Currently deepening my work in:
 - Performance Engineering
 - CI/CD Quality & Security Gates
 - Cloud & Container Security
+- Observability
+
+---
+
+## 💡 Engineering Philosophy
+
+Quality is more than checking whether software works.
+
+I focus on validating whether systems are:
+
+**Functional · Reliable · Secure · Performant · Observable · Resilient**
+
+My approach combines traditional Quality Engineering with security-focused testing and modern CI/CD practices to identify problems earlier in the software development lifecycle.
 
 ---
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/yannick-atabong-6bb426200/) • [GitHub](https://github.com/YannickAtabong9)
+[LinkedIn](https://www.linkedin.com/in/yannick-atabong-6bb426200/) · [GitHub](https://github.com/YannickAtabong9)
 
 ---
 
