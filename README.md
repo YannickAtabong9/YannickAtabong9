@@ -2,7 +2,7 @@
 
 ### Senior Quality & Security Assurance Engineer | QA Automation | Application Security | API Security
 
-I build and test secure, reliable software across **API, web, mobile, and cloud-native environments**.
+I build and test **secure, reliable, and high-quality software** across API, web, mobile, and cloud-native environments.
 
 My work sits at the intersection of **Quality Engineering and Application Security** — combining test automation, API and database validation, security testing, performance engineering, observability, and CI/CD quality gates.
 
@@ -41,6 +41,7 @@ A production-style payment API Quality Engineering project demonstrating an end-
 ## 🧪 Quality Engineering
 
 ### Test Automation
+
 - Playwright
 - Cypress
 - API Automation
@@ -50,6 +51,7 @@ A production-style payment API Quality Engineering project demonstrating an end-
 - Exploratory Testing
 
 ### API & Backend Quality
+
 - REST API Testing
 - Postman
 - OpenAPI Contract Testing
@@ -60,6 +62,7 @@ A production-style payment API Quality Engineering project demonstrating an end-
 - Integration Testing
 
 ### Performance & Reliability
+
 - k6
 - Performance Testing
 - Load Testing
@@ -80,7 +83,6 @@ A production-style payment API Quality Engineering project demonstrating an end-
 - Broken Access Control / IDOR Testing
 - Business Logic Testing
 - Input Validation Testing
-- Security-focused API Testing
 - Burp Suite
 - OWASP ZAP
 - MobSF
@@ -127,36 +129,9 @@ k6 · Prometheus · Grafana
 
 ---
 
-## 🚀 Featured Engineering Project
-
-### 💳 PayFlow Quality Engineering
-
-Production-style payment API quality platform covering **functional, integration, database, contract, security, performance, and observability testing**.
-
-The project demonstrates a layered Quality Engineering approach where quality checks are integrated across the software delivery lifecycle rather than being limited to end-stage testing.
-
-Key engineering areas include:
-
-- Automated API testing with Playwright
-- Payment lifecycle and state-transition validation
-- Direct PostgreSQL persistence assertions
-- Idempotency and concurrent-request testing
-- OpenAPI contract validation
-- Security-focused input and error-handling tests
-- API rate-limit validation
-- k6 performance and load testing
-- Prometheus application metrics
-- Grafana monitoring
-- Dockerized test infrastructure
-- Automated GitHub Actions quality gate
-
-👉 [Explore the repository](https://github.com/YannickAtabong9/payflow-quality-engineering)
-
----
-
 ## 🏆 Security Research
 
-My security work focuses on identifying vulnerabilities and security weaknesses in web, mobile, and API-driven applications.
+My security work focuses on identifying vulnerabilities and security weaknesses in **web, mobile, and API-driven applications**.
 
 Areas of focus include:
 
@@ -172,9 +147,14 @@ I combine offensive security knowledge with Quality Engineering practices to ide
 
 ---
 
-## 📜 Certification
+## 📜 Certifications
 
-**API Penetration Testing Certification — APISec University**
+- **API Penetration Testing** — APIsec University
+- **Certified Security Code Review Beginners (CSCRB)** — Red Team Leaders
+- **AWS Cloud Practitioner Essentials** — Amazon Web Services
+- **Junior Penetration Tester** — TryHackMe
+- **MITRE ATT&CK Defender™ — Cyber Threat Intelligence** — MITRE
+- **Penetration Testing & Ethical Hacking** — Cybrary
 
 ---
 
@@ -203,7 +183,7 @@ I focus on validating whether systems are:
 
 **Functional · Reliable · Secure · Performant · Observable · Resilient**
 
-My approach combines traditional Quality Engineering with security-focused testing and modern CI/CD practices to identify problems earlier in the software development lifecycle.
+My approach combines Quality Engineering with security-focused testing and modern CI/CD practices to identify problems earlier in the software development lifecycle.
 
 ---
 
