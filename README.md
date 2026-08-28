@@ -1,180 +1,86 @@
 # Hi, I'm Yannick 👋
 
-### Senior Quality Engineer | Application Security | QA Automation | API Security | DevSecOps
+### Senior Quality Engineer | Application Security Engineer
 
-I build and test **secure, reliable, and high-quality software** across API, web, mobile, and cloud-native environments.
+I engineer **quality and security across APIs, web applications, payment systems, and CI/CD pipelines**.
 
-My work sits at the intersection of **Quality Engineering and Application Security** — combining test automation, API and database validation, security testing, performance engineering, observability, and CI/CD quality gates.
+My work combines **test automation, API and database validation, application security, performance engineering, observability, and DevSecOps** to help teams ship software that is reliable, secure, and production-ready.
 
-## 🔬 Featured Project
+## 🚀 Featured Engineering Projects
 
-### 💳 PayFlow Quality Engineering
+### 💳 PayFlow — Payment API Quality Engineering
 
-A production-style payment API Quality Engineering project demonstrating a layered approach to software quality, security, reliability, and observability.
+Production-style Quality Engineering for a payment API, with a focus on transaction integrity, reliability, security, and production readiness.
 
-**Engineering coverage:**
+**Highlights**
+- 38 automated Playwright API tests
+- Payment lifecycle & state-transition testing
+- Idempotency & concurrent duplicate-request testing
+- Direct PostgreSQL validation
+- OpenAPI contract testing
+- Security-focused API testing
+- k6 performance testing up to 100 VUs
+- Prometheus metrics & Grafana observability
+- GitHub Actions CI/CD quality gate
 
-- Playwright API automation
-- Functional and negative testing
-- Payment lifecycle and state-transition testing
-- PostgreSQL database validation
-- Idempotency and concurrency testing
-- OpenAPI contract validation
-- API security testing
-- Rate-limit validation
-- Input security testing
-- Secure error-handling validation
-- k6 performance and load testing
-- Prometheus metrics
-- Grafana observability
-- Dockerized infrastructure
-- GitHub Actions CI/CD quality gates
+**Stack:** TypeScript · Playwright · PostgreSQL · OpenAPI · Docker · k6 · Prometheus · Grafana · GitHub Actions
 
-**Tech:** TypeScript · Playwright · Fastify · PostgreSQL · Docker · k6 · Prometheus · Grafana · GitHub Actions
+➡️ [Explore PayFlow](https://github.com/YannickAtabong9/payflow-quality-engineering)
 
-👉 [View PayFlow Quality Engineering](https://github.com/YannickAtabong9/payflow-quality-engineering)
+### 🎭 Playwright E2E Test Architecture
 
-## 🧪 Quality Engineering
+Maintainable end-to-end automation framework demonstrating scalable Playwright architecture and CI/CD integration.
 
-### Test Automation
+**Highlights**
+- Playwright + TypeScript
+- Page Object Model architecture
+- Reusable test components
+- End-to-end browser automation
+- GitHub Actions CI/CD
 
-- Playwright
-- Cypress
-- API Automation
-- End-to-End Testing
-- Regression Testing
-- Functional Testing
-- Exploratory Testing
+➡️ [Explore the Playwright Framework](https://github.com/YannickAtabong9/playwright-e2e-test-architecture)
 
-### API & Backend Quality
+## 🔐 Application Security & DevSecOps
 
-- REST API Testing
-- Postman
-- OpenAPI Contract Testing
-- Database Validation
-- PostgreSQL
-- Idempotency Testing
-- Concurrency Testing
-- Integration Testing
+I work across application and API security with particular focus on:
 
-### Performance & Reliability
+**API Security** · **Authentication & Authorization** · **Broken Access Control / IDOR** · **Business Logic Testing** · **Web & Mobile Security** · **Secure Code Review**
 
-- k6
-- Performance Testing
-- Load Testing
-- Prometheus
-- Grafana
-- API Observability
+I also integrate security earlier in delivery pipelines using:
 
-## 🔐 Application Security
+**GitHub Actions** · **SAST** · **SCA** · **DAST** · **Container Security** · **IaC Security** · **AWS** · **Terraform** · **Docker**
 
-- API Security Testing
-- Web Application Security
-- Mobile Application Security
-- OWASP Top 10
-- OWASP API Security Top 10
-- Authentication & Authorization Testing
-- Broken Access Control / IDOR Testing
-- Business Logic Testing
-- Input Validation Testing
-- Secure Code Review
-- Burp Suite
-- OWASP ZAP
-- MobSF
-- Vulnerability Research
-
-## ⚙️ DevSecOps & Engineering
-
-- GitHub Actions
-- GitHub Advanced Security
-- CI/CD Quality Gates
-- Security Testing in CI/CD
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- SAST / DAST / SCA
-- Security Automation
-- Shift-Left Quality & Security
-
-## 🛠️ Languages & Technologies
-
-```text
-Languages
-TypeScript · JavaScript · Python · Bash
-
-Quality Engineering
-Playwright · Cypress · Postman · REST API Testing · OpenAPI · Ajv
-
-Application Security
-Burp Suite · OWASP ZAP · MobSF · OWASP Top 10 · API Security
-Secure Code Review · GitHub Advanced Security
-
-Backend & Data
-Node.js · Fastify · PostgreSQL
-
-DevOps & Cloud
-Docker · Kubernetes · Terraform · AWS · GitHub Actions
-
-Performance & Observability
-k6 · Prometheus · Grafana
-```
+Security tooling includes **Burp Suite, OWASP ZAP, MobSF, Postman, Trivy, Snyk, CodeQL, and Checkov**.
 
 ## 🏆 Security Research
 
-My security work focuses on identifying vulnerabilities and security weaknesses in **web, mobile, and API-driven applications**.
+I conduct independent security research focused on real-world web and API vulnerabilities, including authentication, authorization, access control, and business-logic weaknesses.
 
-Areas of focus include:
+My approach combines offensive security knowledge with Quality Engineering to identify both **software-quality risks and security vulnerabilities** throughout the SDLC.
 
-- API authorization weaknesses
-- Authentication vulnerabilities
-- Broken access control
-- Business logic flaws
-- Web application vulnerabilities
-- Mobile application security
-- API security weaknesses
-- Secure code review
+## 🧰 Core Stack
 
-I combine offensive security knowledge with Quality Engineering practices to identify both **software quality risks and security vulnerabilities** throughout the software development lifecycle.
+**Quality Engineering:** Playwright · Cypress · Postman · REST APIs · OpenAPI · PostgreSQL · k6
+
+**Application Security:** Burp Suite · OWASP ZAP · MobSF · OWASP Top 10 · OWASP API Security Top 10
+
+**DevSecOps:** GitHub Actions · Docker · Terraform · AWS · SAST · DAST · SCA
+
+**Observability:** Prometheus · Grafana
+
+**Languages:** TypeScript · JavaScript · Python · Bash
 
 ## 📜 Selected Certifications
 
-- **Web Application Pentesting Certificate** — TryHackMe
-- **API Security for PCI Compliance** — APIsec University
-- **Securing LLM and NLP APIs** — APIsec University
-- **GitHub Advanced Security Part 1 of 2** — Microsoft
-- **GitHub Advanced Security Part 2 of 2** — Microsoft
-- **Certified Security Code Review Beginners (CSCRB)** — Red Team Leaders
-- **MITRE ATT&CK Defender™ (MAD) ATT&CK® Cyber Threat Intelligence** — MITRE
-
-## 🎯 Current Focus
-
-Currently deepening my engineering experience in:
-
-- Advanced Quality Engineering
-- Playwright & Cypress Automation
-- API Test Automation
-- Application Security
-- API Security
-- DevSecOps
-- Secure Code Review
-- Performance Engineering
-- CI/CD Quality & Security Gates
-- Cloud & Container Security
-- Observability
-
-## 💡 Engineering Philosophy
-
-Quality is more than checking whether software works.
-
-I focus on validating whether systems are:
-
-**Functional · Reliable · Secure · Performant · Observable · Resilient**
-
-My approach combines Quality Engineering with security-focused testing and modern CI/CD practices to identify quality and security risks earlier in the software development lifecycle.
+- API Security / API Penetration Testing — APIsec University
+- API Security for PCI Compliance — APIsec University
+- Securing LLM and NLP APIs — APIsec University
+- GitHub Advanced Security — Microsoft
+- Certified Security Code Review Beginners (CSCRB) — Red Team Leaders
+- MITRE ATT&CK Defender™ — Cyber Threat Intelligence
 
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/yannick-atabong-6bb426200/) · [GitHub](https://github.com/YannickAtabong9)
 
-> Building software that is not only functional — but **reliable, observable, performant, and secure**.
+> **Quality Engineering + Application Security — building software that is reliable, observable, performant, and secure.**
