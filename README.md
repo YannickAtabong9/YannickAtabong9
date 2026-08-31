@@ -2,7 +2,7 @@
 
 ### Senior Quality Engineer | Application Security Engineer
 
-I engineer **quality and security across APIs, web applications, payment systems, and CI/CD pipelines**.
+I engineer **quality and security across APIs, web applications, mobile applications, payment systems, and CI/CD pipelines**.
 
 My work combines **test automation, API and database validation, application security, performance engineering, observability, and DevSecOps** to help teams ship software that is reliable, secure, and production-ready.
 
@@ -40,6 +40,24 @@ Maintainable end-to-end automation framework demonstrating scalable Playwright a
 
 ➡️ [Explore the Playwright Framework](https://github.com/YannickAtabong9/playwright-e2e-test-architecture)
 
+### 📱 Mobile QA Engineering — Android
+
+Senior-level Mobile Quality Engineering project covering functional automation, CI/CD, security assurance, reliability, and performance testing on Android.
+
+**Highlights**
+- Appium + WebdriverIO + TypeScript automation architecture
+- Critical e-commerce flows including authentication, cart, checkout, and validation
+- Physical Android device testing
+- Android emulator regression testing in GitHub Actions
+- Automated failure screenshots and UI diagnostics
+- MobSF static analysis with ADB runtime security validation
+- Cold-start reliability and crash/ANR assessment
+- Runtime memory behavior analysis
+
+**Stack:** Appium · WebdriverIO · TypeScript · UiAutomator2 · ADB · MobSF · Android · GitHub Actions
+
+➡️ [Explore Mobile QA Engineering](https://github.com/YannickAtabong9/senior-mobile-qa)
+
 ## 🔐 Application Security & DevSecOps
 
 I work across application and API security with particular focus on:
@@ -60,7 +78,9 @@ My approach combines offensive security knowledge with Quality Engineering to id
 
 ## 🧰 Core Stack
 
-**Quality Engineering:** Playwright · Cypress · Postman · REST APIs · OpenAPI · PostgreSQL · k6
+**Quality Engineering:** Playwright · Cypress · Appium · WebdriverIO · Postman · REST APIs · OpenAPI · PostgreSQL · k6
+
+**Mobile Engineering:** Android · UiAutomator2 · ADB · Physical Device Testing · Emulator Testing
 
 **Application Security:** Burp Suite · OWASP ZAP · MobSF · OWASP Top 10 · OWASP API Security Top 10
 
