@@ -27,19 +27,6 @@ Production-style Quality Engineering for a payment API, with a focus on transact
 
 ➡️ [Explore PayFlow](https://github.com/YannickAtabong9/payflow-quality-engineering)
 
-### 🎭 Playwright E2E Test Architecture
-
-Maintainable end-to-end automation framework demonstrating scalable Playwright architecture and CI/CD integration.
-
-**Highlights**
-- Playwright + TypeScript
-- Page Object Model architecture
-- Reusable test components
-- End-to-end browser automation
-- GitHub Actions CI/CD
-
-➡️ [Explore the Playwright Framework](https://github.com/YannickAtabong9/playwright-e2e-test-architecture)
-
 ### 📱 Mobile QA Engineering — Android
 
 Senior-level Mobile Quality Engineering project covering functional automation, CI/CD, security assurance, reliability, and performance testing on Android.
@@ -57,6 +44,19 @@ Senior-level Mobile Quality Engineering project covering functional automation, 
 **Stack:** Appium · WebdriverIO · TypeScript · UiAutomator2 · ADB · MobSF · Android · GitHub Actions
 
 ➡️ [Explore Mobile QA Engineering](https://github.com/YannickAtabong9/senior-mobile-qa)
+
+### 🎭 Playwright E2E Test Architecture
+
+Maintainable end-to-end automation framework demonstrating scalable Playwright architecture and CI/CD integration.
+
+**Highlights**
+- Playwright + TypeScript
+- Page Object Model architecture
+- Reusable test components
+- End-to-end browser automation
+- GitHub Actions CI/CD
+
+➡️ [Explore the Playwright Framework](https://github.com/YannickAtabong9/playwright-e2e-test-architecture)
 
 ## 🔐 Application Security & DevSecOps
 
